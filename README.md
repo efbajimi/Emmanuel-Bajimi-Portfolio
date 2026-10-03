@@ -12,3 +12,6 @@ A collection of data analysis projects demonstrating my ability to extract insig
 - An end-to-end analytics project on two years of Walmart appliance and electronics sales. Raw transaction, store, product, and customer tables were cleaned in Power Query, joined into a relational data model, summarized with a PivotTable, and visualized in a Power BI dashboard.
  
 - https://github.com/efbajimi/Walmart_Electronics-Appliances_Sales_Analysis
+
+## Walmart Appliance & Electronics Sales Analysis
+-An end-to-end SQL project analyzing two years of Walmart appliance and electronics sales ($6.29M across 50 stores and 1,200 customers). I modeled four raw tables as a star schema in MySQL and wrote five queries — using joins, window functions (LAG, running totals), CTEs, and CASE logic — to surface insights like a strong November sales spike, small-format stores leading on revenue per square foot, and revenue concentration across products and customers. Each finding is tied to a concrete business recommendation.
